@@ -1,13 +1,14 @@
-<h1>Hi, I'm Bartek! <br/><a href="https://github.com/bkaczorek">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Intern (hopefully)</a>, <a href="https://maczek.edu.pl/">student</a></h1>
+<h1>Hi, I'm Bartek! <br/><a href="https://github.com/bkaczorek">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Intern (hopefully)</a>, <a href="https://maczek.edu.pl/">youtuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Algorithms and Problem solving practice </b>
   - [full Sudoku game](https://github.com/bkaczorek/)
   - [Conway's Game of Life](https://github.com/bkaczorek/)
+-<b>Maruta's Exam 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [how to write Conway's game of life in c++ with classes](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [how to write Conway's game of life in c++ with classes - code cover + potential use cases](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [how to write Sudoku board generator from scratch in c++](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [how to write Sudoku board solver/puzzle generator c++](https://www.youtube.com/watch?v=)
 
